@@ -15,7 +15,7 @@
 
 - 🎥 Fav TV Series/Movies: **jjk , jjk0 , Pirates of the Caribbean , Medieval**
 
-- ⚡ Fun fact **"I like turtles🤓🐢"**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
