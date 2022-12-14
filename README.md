@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=honzik-erbi&label=Profile%20views&color=0e75b6&style=flat" alt="honzik-erbi" /> </p>
 
-- 🎮 Gamer: **Overwatch, New World, LoL**
+- 🎮 Gamer: **ESO, PtO ,LoL**
 
 - 🥶 Currently learning: **js / java**
 
