@@ -3,7 +3,7 @@
 ![](https://user-images.githubusercontent.com/115611759/195277448-451830e2-00e4-409b-84fc-8c5c8895ba27.png)
 
 <h1 align="center">Hi 👋, I'm Jan Erben</h1>
-<h3 align="center">Most sane programming/calisthenics enjoyer</h3>
+<h3 align="center">Most sane programming/gym enjoyer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=honzik-erbi&label=Profile%20views&color=0e75b6&style=flat" alt="honzik-erbi" /> </p>
 
