@@ -7,14 +7,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=honzik-erbi&label=Profile%20views&color=0e75b6&style=flat" alt="honzik-erbi" /> </p>
 
-- 🎮 Gamer: **ESO, PtO ,LoL**
 
-- 🥶 Currently learning: **js / java**
+- 🥶 Currently learning: typescript/react
 
 - 📢 Fav Quote: **Pain is temporary, quitting is forever**
 
 - 🎥 Fav TV Series/Movies: **jjk , jjk0 , Pirates of the Caribbean , Medieval**
-
 
 
 <p align="left">
