@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jan Erben</h1>
-<h3 align="center">Most sane programming/gym enjoyer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=honzik-erbi&label=Profile%20views&color=0e75b6&style=flat" alt="honzik-erbi" /> </p>
 
